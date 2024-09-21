@@ -8,4 +8,4 @@ venue: "East2west Network Tech. Co., Ltd."
 location: "Beijing"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+East2west Network Tech. Co., Ltd. Beijing.
