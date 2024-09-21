@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-- The Institute for Computational and Data Sciences
-  * Client Support
+- **The Institute for Computational and Data Sciences**
+  - Client Support
 
-- East2west Network Tech. Co., Ltd. Beijing, China
-  * Co-founder, vice president
+- **East2west Network Tech. Co., Ltd. Beijing, China**
+  - Co-founder, vice president
 
 
