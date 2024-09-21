@@ -12,7 +12,7 @@ title                    : "Qian Ma"
 title_separator          : "-"
 name                     : &name "Qian Ma"
 description              : &description "A PhD student in IST @Penn State"
-url                      : https://masonmq.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://masonmq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masonmq/masonmq.github.io"
 
