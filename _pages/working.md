@@ -12,7 +12,7 @@ redirect_from:
 - **The Institute for Computational and Data Sciences**
   - Client Support
 
-- **East2west Network Tech. Co., Ltd. Beijing, China**
+- **East2west Network Tech. Co., Ltd. Beijing**
   - Co-founder, vice president
 
 
